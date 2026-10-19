@@ -98,7 +98,7 @@ Tienes dos formas súper fáciles de conectarlo:
    ```
 4. También puedes cambiar tu número de WhatsApp en la línea:
    ```javascript
-   whatsappNumber: "51987654321", // Pon tu código de país + número
+   whatsappNumber: "51931670843", // Tu número de WhatsApp (+51 931 670 843)
    ```
 5. Guarda el archivo y refresca tu navegador.
 

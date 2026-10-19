@@ -12,7 +12,7 @@ const CONFIG = {
     storeLogo: "https://drive.google.com/file/d/1zwTblzHGj573u-5-bjp9N1Gjmp4jx2n6/view?usp=sharing",
 
     // 2. Contacto y WhatsApp (IMPORTANTE: Código de país sin el signo +, ej: 51 para Perú, 52 para México, etc.)
-    whatsappNumber: "51987654321", // Reemplaza con tu número de WhatsApp real
+    whatsappNumber: "51931670843", // Número oficial de WhatsApp (+51 931 670 843)
     whatsappGreeting: "¡Hola! Visité tu tienda online y me gustaría hacer una consulta.",
 
     // 3. Moneda y Formato
