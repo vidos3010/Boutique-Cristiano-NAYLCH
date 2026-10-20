@@ -35,7 +35,7 @@ const CONFIG = {
     },
 
     // 6. Costo de Envío / Mensaje
-    shippingNote: "Envíos a todo el país. Coordinamos la entrega por WhatsApp.",
+    shippingNote: "Envíos a todo el país • Pedidos WhatsApp: +51 931 670 843",
 
     // 7. Productos de Demostración (Se muestran si aún no has conectado tu Google Sheet)
     demoProducts: [
